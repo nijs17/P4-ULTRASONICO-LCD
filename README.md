@@ -70,5 +70,5 @@ void loop()
     2. Visualizar los datos en el monitor serial.
     3. Colocar la distancia de trabajao del sensor **HC-SR04**
 ## RESUSLTADOS
-Cuando haya funcionado, verás los valores dentro de display como se muestra en la sigiente imagen.
-![]
+Cuando haya funcionado, verás los valores  se mostraran dentro de display como se muestra en la sigiente imagen.
+![](https://github.com/nijs17/P4-ULTRASONICO-LCD/blob/main/editdis.png)
