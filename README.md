@@ -61,7 +61,7 @@ void loop()
 }
 
 2. Se agrega la libreria #include <LiquidCrystal_I2C.h>.
-![]
+![](![imagen](https://github.com/nijs17/P4-ULTRASONICO-LCD/assets/153965493/a4471006-6d32-4abc-98e4-b5e09f00e929)
 3. Hacer la conexion de **HC-SR04** con la **ESP32** y el **LCD 16X2 (I2C)** como se muestra en la siguente imagen.
 ![]
 ## INSTRUCCIONES DE OPERACION 
